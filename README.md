@@ -10,8 +10,6 @@ Mas depois de 12 anos longe do que eu realmente gostava de fazer estou decidido 
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/RastercOd/README/assets/118366405/aa77c150-3b07-434f-81c4-35547efce4c0" width="300" height="300">
+    <img src="https://github.com/RastercOd/RastercOd/assets/118366405/3a886427-e775-4cbf-9256-2830a18edb2e" width="300" height="300">
   </a>
 </p>
-
-
