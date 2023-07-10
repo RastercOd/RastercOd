@@ -4,7 +4,7 @@
 
 Apaixonado por tecnologia! Aos 14 anos tive meu primeiro contato com um computador, e de lá para cá a paixão de mexer (~~fuçar~~) com tudo relacionado a tecnologia foi so aumentando.
 
-Tive a oportunidade de estudar um pouco de linguagem C# nos anos de 2011, mas com o tempo os planos foram mudando, então fui trabalhar na área do varejo e acabei desistindo de trabalhar com T.I por motivos de oportunidades.
+Tive a oportunidade de estudar um pouco de linguagem C++ nos anos de 2011, mas com o tempo os planos foram mudando, então fui trabalhar na área do varejo e acabei desistindo de trabalhar com T.I por motivos de oportunidades.
 
 Mas depois de 12 anos longe do que eu realmente gostava de fazer estou decidido em seguir aprendendo todos os dias, e hoje estou focado em trabalhar na área de Frontend, e no momento estou estudando a linguagem JavaScript com HTML e CSS. 
 
